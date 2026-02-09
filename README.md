@@ -60,7 +60,7 @@ Other characters (numbers, symbols, spaces) remain unchanged.
 ## Why Use This Tool?
 
 ### 🔥 Facebook Capital Letter Bypass
-Facebook has a strict policy against all capital letter names. When you try to write your name in all caps (like "JOHN SMITH"), Facebook will reject it. But with this tool, you can bypass that restriction!
+Facebook has a strict policy against all capital letter names. When you try to write your name in all caps (like "FLAME VORTEX"), Facebook will reject it. But with this tool, you can bypass that restriction!
 
 **How it works:**
 - These Cherokee Unicode characters look identical to English capital letters
